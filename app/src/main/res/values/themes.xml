@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.Trial" parent="Base.Theme.Trial" />
+
+    <style name="AppTheme" parent="Base.Theme.Trial">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorSecondary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
 </resources>
